@@ -8,3 +8,6 @@
 ### Josefa Zuñiga
 >- Repositorio: https://github.com/josefa-zuniga/proyecto-final
 >- Fork: https://github.com/LuisSubiabre/proyecto-final
+
+# Contribuciones:
+> Para contribuir, enviar Pull Request a la rama **contribuciones**
